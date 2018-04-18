@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>rich_busi_base</name>
-	<description>Demo project for Spring Boot</description>
+	<description>fdw demo project of spring cloud</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
